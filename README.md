@@ -3,7 +3,7 @@ A script for all the Termux script-kiddies out there.
 
 ## Installation:
 
-`git clone https://github.com/Ethical-Hacking-Zone/T-Lazy.git`
+`git clone https://github.com/0Riddle0/T-Lazy.git`
 
 `cd T-Lazy && chmod +x install.sh && ./install.sh`
 
